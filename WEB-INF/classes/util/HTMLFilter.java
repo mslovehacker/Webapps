@@ -2,16 +2,11 @@
 
 this is util file.
 
-
 java2
 java7
 
 HTMLFilter HTMLFilter HTMLFilter HTMLFilter
 
-this is util file.
-
-
-create by Yakurt Azumma
 */
 package util;
 
